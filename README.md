@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lostdesire&theme=ambient_gradient&locale=ko&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak"/></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostdesire&theme=ambient_gradient&exclude_repo=lostdesire.github.io&layout=compact&hide_border=true" alt="Top Language"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostdesire&theme=ambient_gradient&layout=compact&hide_border=true&langs_count=10" alt="Top Language"/>
 </div>
 
 <div align="center">
